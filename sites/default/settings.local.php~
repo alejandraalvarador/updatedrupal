@@ -7,9 +7,9 @@
 
 $databases['default']['default'] = array(
   'driver' => 'mysql',
-  'database' => 'prod',
-  'username' => 'prod',
-  'password' => 'prod',
+  'database' => 'dev',
+  'username' => 'dev',
+  'password' => 'dev',
   'host' => 'localhost',
   'prefix' => 'main_',
   'collation' => 'utf8_general_ci',
